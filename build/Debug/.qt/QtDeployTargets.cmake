@@ -1,0 +1,4 @@
+set(__QT_DEPLOY_TARGET_directory_paths_FILE /home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/config/libdirectory_paths.a)
+set(__QT_DEPLOY_TARGET_directory_paths_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_data_analysis_app_FILE /home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/data_analysis_app/data_analysis_app)
+set(__QT_DEPLOY_TARGET_data_analysis_app_TYPE EXECUTABLE)

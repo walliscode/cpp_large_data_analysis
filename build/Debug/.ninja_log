@@ -1,0 +1,22 @@
+# ninja log v6
+1	49	1758722510732263598	data_analysis_app/CMakeFiles/data_analysis_app.dir/main.cpp.o.ddi	6a9a8604432bb793
+49	51	1758722510781661380	/home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/data_analysis_app/CMakeFiles/data_analysis_app.dir/CXXModules.json	1bd3d93c7d653ad
+1	49	1758722510730988061	config/CMakeFiles/directory_paths.dir/directory_paths.cpp.o.ddi	ad8375dc74aaf511
+49	51	1758722510781661380	data_analysis_app/CMakeFiles/data_analysis_app.dir/main.cpp.o.modmap	1bd3d93c7d653ad
+49	51	1758722510781661380	data_analysis_app/CMakeFiles/data_analysis_app.dir/CXX.dd	1bd3d93c7d653ad
+941	963	1758722511671007342	config/libdirectory_paths.a	e8e46d084a755fb3
+49	51	1758722510782272767	config/CMakeFiles/directory_paths.dir/CXX.dd	b7dd3d5cb02e7ca4
+763	951	1758722511493556696	data_analysis_app/data_analysis_app	f2159917592a2ca9
+49	51	1758722510782272767	/home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/config/CMakeFiles/directory_paths.dir/CXXModules.json	b7dd3d5cb02e7ca4
+49	51	1758722510782272767	config/CMakeFiles/directory_paths.dir/directory_paths.cpp.o.modmap	b7dd3d5cb02e7ca4
+51	762	1758722510781661380	data_analysis_app/CMakeFiles/data_analysis_app.dir/main.cpp.o	2507d990f1c5857f
+51	941	1758722510782272767	config/CMakeFiles/directory_paths.dir/directory_paths.cpp.o	a89db86ae0ab5aca
+2	4	1758722540754604180	data_analysis_app/CMakeFiles/data_analysis_app.dir/CXX.dd	1bd3d93c7d653ad
+2	4	1758722540754604180	/home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/data_analysis_app/CMakeFiles/data_analysis_app.dir/CXXModules.json	1bd3d93c7d653ad
+2	4	1758722540754604180	data_analysis_app/CMakeFiles/data_analysis_app.dir/main.cpp.o.modmap	1bd3d93c7d653ad
+1	62	1758722617640184443	data_analysis_app/CMakeFiles/data_analysis_app.dir/main.cpp.o.ddi	6a9a8604432bb793
+62	65	1758722617701185698	data_analysis_app/CMakeFiles/data_analysis_app.dir/CXX.dd	1bd3d93c7d653ad
+62	65	1758722617701185698	/home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/data_analysis_app/CMakeFiles/data_analysis_app.dir/CXXModules.json	1bd3d93c7d653ad
+62	65	1758722617701185698	data_analysis_app/CMakeFiles/data_analysis_app.dir/main.cpp.o.modmap	1bd3d93c7d653ad
+65	2201	1758722617704803299	data_analysis_app/CMakeFiles/data_analysis_app.dir/main.cpp.o	2507d990f1c5857f
+2202	2382	1758722619841229731	data_analysis_app/data_analysis_app	f2159917592a2ca9

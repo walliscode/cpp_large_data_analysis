@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/cmake_install.cmake",
+		"/home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/config/cmake_install.cmake",
+		"/home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/src/cmake_install.cmake",
+		"/home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/tests/cmake_install.cmake",
+		"/home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/data_analysis_app/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
