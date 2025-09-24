@@ -1,9 +1,9 @@
 
 cmake_minimum_required(VERSION 3.31 FATAL_ERROR)
 
-# [TODO] Add Project Name
-project(
-  VERSION 0.0.0.0
+
+project( cpp_large_data_analysis
+  VERSION 0.0.0.1
   LANGUAGES CXX)
 
 enable_testing()
@@ -34,6 +34,5 @@ include(fetch-content-modules)
 add_subdirectory(config)
 add_subdirectory(src)
 add_subdirectory(tests)
-
-
+add_subdirectory(data_analysis_app)
 

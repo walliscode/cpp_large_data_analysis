@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "data_analysis_app/CMakeFiles/data_analysis_app.dir/main.cpp.o"
+    }
+  ],
+  "version": 1
+}
