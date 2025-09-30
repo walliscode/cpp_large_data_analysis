@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/src/config",
+	"dir-cur-src" : "/home/bwallis/projects/walliscode/cpp_large_data_analysis/src/config",
+	"dir-top-bld" : "/home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug",
+	"dir-top-src" : "/home/bwallis/projects/walliscode/cpp_large_data_analysis",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"/home/bwallis/projects/walliscode/cpp_large_data_analysis/src/config"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/src/config/CMakeFiles/config.dir",
+	"sources" : 
+	{
+		"src/config/CMakeFiles/config.dir/directory_paths.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/src/config/directory_paths.cpp"
+		}
+	}
+}

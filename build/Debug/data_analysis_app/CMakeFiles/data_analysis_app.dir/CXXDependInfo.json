@@ -14,6 +14,8 @@
 	"forward-modules-from-target-dirs" : [],
 	"include-dirs" : 
 	[
+		"/home/bwallis/projects/walliscode/cpp_large_data_analysis/src/gui",
+		"/home/bwallis/projects/walliscode/cpp_large_data_analysis/src/config",
 		"/usr/include/qt6/QtWidgets",
 		"/usr/include/qt6",
 		"/usr/include/qt6/QtCore",

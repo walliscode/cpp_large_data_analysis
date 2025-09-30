@@ -1,0 +1,5 @@
+ninja_dyndep_version = 1.0
+build src/gui/CMakeFiles/gui.dir/main_window.cpp.o: dyndep
+
+build src/gui/CMakeFiles/gui.dir/data_driven_configuration.cpp.o: dyndep
+

@@ -1,0 +1,38 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"tests/gui/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "config::@f954cdf8d5380f57b616"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "gui::@7675e61a69a6135e3026"
+		}
+	],
+	"id" : "test_gui_autogen_timestamp_deps::@2e2b81c6461735758b72",
+	"isGeneratorProvided" : true,
+	"name" : "test_gui_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "tests/gui",
+		"source" : "tests/gui"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

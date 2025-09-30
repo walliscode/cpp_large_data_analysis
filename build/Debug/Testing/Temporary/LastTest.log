@@ -1,0 +1,29 @@
+Start testing: Sep 30 16:23 BST
+----------------------------------------------------------
+1/1 Testing: test_gui
+1/1 Test: test_gui
+Command: "/home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/tests/gui/test_gui"
+Directory: /home/bwallis/projects/walliscode/cpp_large_data_analysis/build/Debug/tests/gui
+"test_gui" start time: Sep 30 16:23 BST
+Output:
+----------------------------------------------------------
+********* Start testing of TestStaticMainComponents *********
+Config: Using QtTest library 6.9.1, Qt 6.9.1 (x86_64-little_endian-lp64 shared (dynamic) release build; by GCC 15.1.1 20250425), arch unknown
+PASS   : TestStaticMainComponents::initTestCase()
+PASS   : TestStaticMainComponents::TestMainWindowConfiguration()
+FAIL!  : TestStaticMainComponents::TestMainTabBarConfiguration() Compared values are not the same
+   Actual   (tab_bar_casted->count()): 4
+   Expected (2)                      : 2
+   Loc: [/home/bwallis/projects/walliscode/cpp_large_data_analysis/tests/gui/main_window.test.cpp(46)]
+PASS   : TestStaticMainComponents::cleanupTestCase()
+Totals: 3 passed, 1 failed, 0 skipped, 0 blacklisted, 7ms
+********* Finished testing of TestStaticMainComponents *********
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Failed.
+"test_gui" end time: Sep 30 16:23 BST
+"test_gui" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 30 16:23 BST

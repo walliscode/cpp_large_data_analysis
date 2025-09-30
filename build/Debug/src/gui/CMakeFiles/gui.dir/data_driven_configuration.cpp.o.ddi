@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "src/gui/CMakeFiles/gui.dir/data_driven_configuration.cpp.o"
+    }
+  ],
+  "version": 1
+}

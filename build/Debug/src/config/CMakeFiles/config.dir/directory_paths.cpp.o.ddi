@@ -1,0 +1,9 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "src/config/CMakeFiles/config.dir/directory_paths.cpp.o"
+    }
+  ],
+  "version": 1
+}

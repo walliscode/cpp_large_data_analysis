@@ -35,7 +35,8 @@
 			"/usr/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
 			"/usr/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake",
 			"/usr/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
-			"/usr/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake"
+			"/usr/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake",
+			"src/gui/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -51,7 +52,7 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 5,
+				"line" : 4,
 				"parent" : 0
 			},
 			{
@@ -198,6 +199,15 @@
 				"file" : 7,
 				"line" : 710,
 				"parent" : 28
+			},
+			{
+				"file" : 14
+			},
+			{
+				"command" : 1,
+				"file" : 14,
+				"line" : 11,
+				"parent" : 31
 			}
 		]
 	},
@@ -231,6 +241,14 @@
 			],
 			"includes" : 
 			[
+				{
+					"backtrace" : 2,
+					"path" : "/home/bwallis/projects/walliscode/cpp_large_data_analysis/src/gui"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/home/bwallis/projects/walliscode/cpp_large_data_analysis/src/config"
+				},
 				{
 					"backtrace" : 2,
 					"isSystem" : true,
@@ -273,6 +291,17 @@
 			]
 		}
 	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "config::@f954cdf8d5380f57b616"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "gui::@7675e61a69a6135e3026"
+		}
+	],
 	"id" : "data_analysis_app::@d7e6510bee58e74a9cfc",
 	"link" : 
 	{
@@ -281,6 +310,11 @@
 			{
 				"fragment" : "-g",
 				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "src/gui/libgui.a",
+				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
@@ -305,6 +339,11 @@
 			{
 				"backtrace" : 14,
 				"fragment" : "/usr/lib/libQt6Core.so.6.9.1",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 32,
+				"fragment" : "src/config/libconfig.a",
 				"role" : "libraries"
 			}
 		],
